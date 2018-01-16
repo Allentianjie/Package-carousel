@@ -1,3 +1,2 @@
 # Package-carousel
-
-  简单轮播封装
+简单轮播封装
